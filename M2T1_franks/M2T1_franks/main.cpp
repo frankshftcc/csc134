@@ -13,7 +13,7 @@ This program should take the menu price, calculate the tax, and give you a total
 
 int main()
 {
- //declare our variables:
+  //declare our variables:
   cout << "Receipt Calculator" << endl;
   //TODO: ask the user the meal price
   double menu_price = 5.99;
