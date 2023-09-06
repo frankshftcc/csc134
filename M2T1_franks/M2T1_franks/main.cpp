@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -7,7 +8,7 @@ CSC 134
 M2T1 - Receipt Calculator
 franksh
 9/6
-Simple calculator.
+This program should take the menu price, calculate the tax, and give you a total.
 */
 
 int main()
@@ -17,13 +18,12 @@ int main()
   //TODO: ask the user the meal price
   double menu_price = 5.99;
   double tax_percent = 0.07; // for cumberland county
-  double tax_dollars;
-  double total_price; //price including tax
+  double tax_dollars = menu_price * tax_percent; // 7% of meal price
+  double total_price = menu_price + tax_dollars; //price including tax
   // calculate the tax amount and the total
-  tax_dollars = tax_percent * menu_price; // 7% of meal price
-  total_price = menu_price + tax_dollars; // base price + tax amount
-
-  //TODO: figure out how to use 2 decimal places
+  // we #include <iomanip> at the top and use this magic below
+  // to use 2 decimal places
+  cout << fixed << setprecision(2);
   // print output
   cout << "Menu price: $" << menu_price << endl;
   cout << "Tax:        $" << tax_dollars << endl;
