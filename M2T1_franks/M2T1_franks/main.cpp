@@ -8,7 +8,11 @@ CSC 134
 M2T1 - Receipt Calculator
 franksh
 9/6
-This program should take the menu price, calculate the tax, and give you a total.
+This program should take the price of a meal, which is $5.99, and print out a simple text receipt.
+It should include:
+  - The price before tax
+  - The amount of tax owed (8%)
+  - The total including tax
 */
 
 int main()
