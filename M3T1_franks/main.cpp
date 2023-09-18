@@ -36,7 +36,8 @@ int main()
     if (area1 > area2) {
         cout << "Rectangle 1 is larger." << endl;
     }
-    else if (area2 > area1){
+    else if (area2 > area1)
+        {
         cout << "Rectangle 2 is larger." << endl;
     }
     else {
