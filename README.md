@@ -1,5 +1,10 @@
 # csc134
 CSC 134 C++ (Fall 2023)
 
-This is a README.
-This is an edit.
+Last updated: 10/2/2023
+
+Current Content:
+
+Module 1
+Module 2
+Module 3
