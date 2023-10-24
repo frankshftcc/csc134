@@ -1,0 +1,9 @@
+---- Assignment List - TOTAL: 4 ----
+
+M2HW1 - Multiple Questions
+
+M2LAB1 - Crates
+
+M2T1 - Simple Receipt Calc
+M2T2 - Apple Sales
+
