@@ -1,8 +1,0 @@
-M4T1 - Simple While Loop
-M4T2 - AI Assignment (CANNOT BE UPLOADED)
-M4T3 - 3 Loops
-
-M4LAB1 - Asterisk Block
-M4LAB2 - Simple Menu w/ Functions file
-
-M4HW1 - Times Table
