@@ -42,6 +42,7 @@ int main()
 
 //Use while loop to print 5 * (1 thru 12) table
 void Bronze(){
+  cout << "-- BRONZE --" << endl;
   int num = 5;
   for (int i = 1; i <= 12; i++){
     int answer = num*i;
@@ -53,6 +54,7 @@ void Bronze(){
 
 //Modify Bronze's 5 to a cin input of 1-12
 void Silver(){
+  cout << "-- SILVER --" << endl;
   cout << "Choose a number from 1 - 12: ";
   int num; cin >> num;
   for (int i = 1; i <= 12; i++){
@@ -75,6 +77,7 @@ and tried to explain what they do to understand them
 */
 
 void Gold(){
+  cout << "-- GOLD --" << endl;
   cout << "Choose a number from 1 - 12: ";
   int num;
 
@@ -93,3 +96,5 @@ void Gold(){
   }
 
 }
+
+
