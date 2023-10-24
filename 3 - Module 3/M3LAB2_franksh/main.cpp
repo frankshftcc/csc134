@@ -9,15 +9,15 @@ Franksh
 */
 
 int main()
-{  
+{
   // this program will ask a question and respond to it
   // run it, and test it by typing in different values.
   // example test values: 1, 2, 3, banana (try all of them)
 
   // declare the variable + ask the question
   cout << "Do you choose box 1 or box 2?" << endl;
-  cout << "Enter 1 or 2: "; 
-  int door; 
+  cout << "Enter 1 or 2: ";
+  int door;
   cin >> door;
   string choice;
 
@@ -53,7 +53,7 @@ int main()
     }
     else {
       cout << "That's not a valid choice!" << endl;
-    }    
+    }
     cout << "You open it to find a bunch of friendly puppies inside!" << endl;
   }
   else {
