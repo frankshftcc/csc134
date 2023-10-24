@@ -1,0 +1,11 @@
+---- Assignment List - TOTAL: 5 ----
+
+M1HW1 - Movie Talk
+
+M1LAB - Apple Sales
+
+M1QUIZ - Python Turtles
+
+M1T1 - Hello World
+M1T2 - Hello, Student
+

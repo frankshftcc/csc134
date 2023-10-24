@@ -9,7 +9,7 @@ franksh
 9/5
 Movie discussion.
 */
-int main() 
+int main()
 {
  string movie = "Owls of Ga'hoole";
  int year = 2010;
