@@ -1,0 +1,11 @@
+---- Assignment List - TOTAL: 6 ----
+
+M3HW1 - Multiple Questions
+
+M3LAB2 - Choices with IF
+M3LAB3 - Letter Grades
+
+M3T1 - Comparing Rectangles
+M3T2 - The House Always Wins
+M3T3 - Setting up a Menu
+
