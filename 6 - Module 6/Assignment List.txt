@@ -1,0 +1,11 @@
+---- Assignment List - TOTAL: 7 ----
+
+M6HW1 - Multiple Questions
+
+M6LAB1 - Arduino
+M6LAB2 - Array/Vector Practice
+M6LAB3 - Raylib
+
+M6T1 - Five Nights in For Loops
+M6T2 - Rectangles
+M6T3 - Linked Lists
