@@ -1,0 +1,12 @@
+---- Assignment List - TOTAL: 6 ----
+
+GAME JAM - Choose Your Own Adventure (Halloween Theme)
+
+M5HW1 - Multiple Questions
+
+M5LAB1 - GAME JAM Pt. 2
+M5LAB2 - Fixing Code
+
+M5T1 - GAME JAM Pt. 1
+M5T2 - Void & Value Returning Functions
+
